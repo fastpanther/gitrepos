@@ -1,4 +1,5 @@
 print ("hello world")
 print ("hello everybody")
-prinr("hello")
-prinr("hello my dear friend")
+print ("hello")
+print ("hello my dear friend")
+print ("glad to see you")
